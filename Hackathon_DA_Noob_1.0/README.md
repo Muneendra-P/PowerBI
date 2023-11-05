@@ -23,6 +23,47 @@ Mr. Analyst is the data analyst in the supply chain team who joined GDS Mart rec
 . PowerBI
 . DAX Formulas
 
+## Installation Steps
+
+Step 1. To download the Power BI Desktop application, first, go to the Official Power BI Website. 
+	Power BI  Desktop Download Official Page : 	https://powerbi.microsoft.com/en-us/desktop/
+
+Step 2. Next, you can select any one of the languages as per your need in the dropdown box.
+
+Step 3. Once a language is selected, it will dynamically change the content to that language. Please click the Download button.
+
+Note: The download button offers you to choose a downloadable OS file either 32Bit or 64Bit ( depending upon your system architecture).
+
+Step 4. The Next button will be enabled once you select either of the FileNames. Now, Click the Next button to download it on your device.
+
+Step 5. Once you open the downloaded file on your system.
+Note: Once you click the Next button, you will be asked to click the Next button to continue or the Cancel button to exit in the dialog box.
+
+Step 6. The license agreement dialog box is displayed. Accept the Agreement by clicking the checkbox, then the Next button will be enabled Click on it.
+
+Step 7. Click the Next button to open the Destination folder. The folder allows you to either leave the default C location or use the Change button to alter your desired location for installing Power BI Desktop Application in your device.
+
+Step 8. Please, click the Next button to give you the following alternatives. 
+Note: Are you ready to Install? If, yes click the Install button (or) Do you want to review or change any of the installation settings? If yes, click Back Button. Next, click the Install button for installation. 
+Note: Please, wait until the installation is finished.
+Note: Click the Finish button to initialize the proces
+
+Step 9. Please, Wait for a few seconds to start Power BI Desktop.
+
+Step 10. Here you can see the installed Power BI Desktop Page. Let me Close the start page.
+
+That’s it. Power BI Desktop is now ready for analytics or report development! From there, you can begin creating data models or interactive reports.
+When Power BI is installed, it generates a welcome screen.
+This screen is used to launch different options related to getting data, enriching the existing data models, creating reports as well as publishing and sharing reports.
+
+
+## step by step process to execute the project
+
+Use Power BI Desktop to connect with your Project data
+1. Open PowerBI Desktop
+2. goto file-->Open-->Choose location of the file/Project
+3. Click open
+
 
 ## Data Model 
 
@@ -32,6 +73,11 @@ https://github.com/Muneendra-P/PowerBI/blob/main/Hackathon_DA_Noob_1.0/resources
 ## Dashboard 
 
 https://github.com/Muneendra-P/PowerBI/blob/main/Hackathon_DA_Noob_1.0/resources/Dashboard.jpg
+
+
+## Working Video demo
+https://drive.google.com/file/d/1W5JQ9VG9TDjqYzonAPXFmvCEl5q2lNfT/view?usp=sharing
+
 
 
 ## Some Major Insights 
